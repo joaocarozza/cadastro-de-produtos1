@@ -25,8 +25,8 @@ Agora eu vou escrever um código em HTML para testar:
  
 ## Utilidade do arquivo READ.me
 
-" Descrição do meu projeto 
-" Funcionalidades 
-" Como os usuários devem usar
-" Onde os usuários podem encontrar ajuda sobre o projeto
-" Autores do projeto
+* Descrição do meu projeto 
+* Funcionalidades 
+* Como os usuários devem usar
+* Onde os usuários podem encontrar ajuda sobre o projeto
+* Autores do projeto
